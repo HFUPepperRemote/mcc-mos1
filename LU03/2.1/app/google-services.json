@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050925090183",
+    "project_id": "aufgzweieins",
+    "storage_bucket": "aufgzweieins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050925090183:android:9b4b7f01f97bbe04f5bf22",
+        "android_client_info": {
+          "package_name": "com.example.aufgzweieins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050925090183-jhcppn1f8t49klo1a1olfa95gfu6mg0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXrR_kJH6chdk6SJC-9ltco9h5Z4rAx6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050925090183-jhcppn1f8t49klo1a1olfa95gfu6mg0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
