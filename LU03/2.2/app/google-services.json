@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9548924774",
+    "project_id": "aufgabezweizwei",
+    "storage_bucket": "aufgabezweizwei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9548924774:android:3ab808a003e9f02372aaa7",
+        "android_client_info": {
+          "package_name": "com.example.aufgabezweizwei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9548924774-qo3hlki2cs47cn1t6ii5bbtths4gcd91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkBiqigHWVGbqQvBEnfzDgjacRmSPzH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9548924774-qo3hlki2cs47cn1t6ii5bbtths4gcd91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

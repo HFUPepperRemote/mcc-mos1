@@ -1,1 +1,6 @@
 Das hier ist die Abgabe zu Aufgabe 2. Vasiliy Seibert MOS 2. Präsentation entweder in android studio oder alfaview auf dem mobilem endgerät.
+
+
+
+
+...oder vill ein video ?
