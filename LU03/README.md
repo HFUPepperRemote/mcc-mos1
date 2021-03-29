@@ -1,4 +1,8 @@
-erstelle ein video wo du die funktionsweise der apps demonstrierst...
+Abgabe LU03 Gruppe Seibert, Musitova, Garkavyj
+
+Schauen Sie bitte:
+* demoLu03teil1.pm4.   und
+* * demoLu03teil2.pm4
 
 relevante yt- links:
 
