@@ -1,1 +1,1 @@
-<img src="mcc-mos1/Assets/Bildschirmfoto 2021-03-25 um 20.22.11.png">
+<img src="Assets/Aufgabe4mcc/bild01.png">
