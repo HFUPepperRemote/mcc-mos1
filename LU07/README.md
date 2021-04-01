@@ -1,8 +1,8 @@
 Hallo Herr Reich. Dies sind die Abgaben der Gruppe:
 -Vasiliy Seibert
 -Petimat Musitova
--Alex Garkavji
+-Alex Garkawyj
 
-Kontakt Seibert: vasiliy.sviyazov@hs-furtwangen.de
+Kontakt Garkawyj: alexander.garkawyj@hs-furtwangen.de
 
--> schauen Sie bei den Aufgaben bitte auch in der README nach. Dort ist die Aufgabe beschrieben.
+Das Video ist eine Präsentation einer Synchronisationssoftware.
